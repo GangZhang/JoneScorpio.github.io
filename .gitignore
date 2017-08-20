@@ -1,4 +1,6 @@
-*.class
+_site/
+.sass-cache
+.ruby-version*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
