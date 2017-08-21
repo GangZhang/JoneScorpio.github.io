@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Akka学习
+title: Akka learning
 date: 2017-08-20 20:19:07
 ---
 # Akka学习
