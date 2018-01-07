@@ -1,13 +1,3 @@
-﻿
----
-title: Akka learning
-date: 2017-08-20 20:19:07
----
-# Akka学习
-
-标签（空格分隔）： Akka 技术学习
-
----
 
 ## What is Akka? ##
 

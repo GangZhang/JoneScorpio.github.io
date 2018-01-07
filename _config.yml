@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
+title:            "Gang zhang blog[张钢的个人博客]"
+description:      "Speak less, do more!"
 url:              http://gangzhang.github.io # Site url, without a slash at the end.
 signoff:          "GangZhang" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
