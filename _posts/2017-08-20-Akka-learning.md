@@ -145,12 +145,20 @@ b） 如果partitions的数量超过2。 比如 10 Nodes，static quorum最小�
 [Akka Commercial Addons](https://developer.lightbend.com/docs/akka-commercial-addons/current/)
 
 ---
-## Using in AC ##
+## Using in OpenDaylight ##
+![1](../images/odl_akka1.png)
+![2](../images/odl_akka2.png)
+![3](../images/odl_akka3.png)
+
 
 ----------
 ## 参考 ##
-[Akka框架基本要点介绍](http://shiyanjun.cn/archives/1168.html)
-[Akka doc](https://doc.akka.io/docs/akka/2.3.16/java.html)
-[Akka quick start](https://developer.lightbend.com/guides/akka-quickstart-java/)
-[Akka工作原理](https://birdben.github.io/2015/11/12/Others/Akka%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/)
+[[1] Akka框架基本要点介绍](http://shiyanjun.cn/archives/1168.html)
 
+[[2] Akka doc](https://doc.akka.io/docs/akka/2.3.16/java.html)
+
+[[3] Akka quick start](https://developer.lightbend.com/guides/akka-quickstart-java/)
+
+[[4] Akka工作原理](https://birdben.github.io/2015/11/12/Others/Akka%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/)
+
+[[5] MD-SAL Akka Prototype](https://wiki.opendaylight.org/images/2/2d/MD-SAL_Akka_Prototype.pdf)
