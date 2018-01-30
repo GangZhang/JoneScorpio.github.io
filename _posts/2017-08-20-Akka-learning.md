@@ -162,3 +162,5 @@ b） 如果partitions的数量超过2。 比如 10 Nodes，static quorum最小�
 [[4] Akka工作原理](https://birdben.github.io/2015/11/12/Others/Akka%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/)
 
 [[5] MD-SAL Akka Prototype](https://wiki.opendaylight.org/images/2/2d/MD-SAL_Akka_Prototype.pdf)
+
+[[6] Akka Cluster原理与应用](http://shiyanjun.cn/archives/1186.html)
