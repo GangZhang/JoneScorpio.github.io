@@ -1,6 +1,7 @@
 
 ## What is Akka? ##
 
+> 
 > Akka is an open-source toolkit and runtime simplifying the
 > construction of concurrent and distributed applications on the JVM.
 > Akka supports multiple programming models for concurrency, but it
