@@ -148,9 +148,9 @@ b） 如果partitions的数量超过2。 比如 10 Nodes，static quorum最小�
 
 ---
 ## Using in OpenDaylight ##
-![1](../images/odl_akka1.png)
-![2](../images/odl_akka2.png)
-![3](../images/odl_akka3.png)
+![1](https://github.com/GangZhang/gangzhang.github.io/blob/master/images/odl_akka1.png?raw=true)
+![2](https://github.com/GangZhang/gangzhang.github.io/blob/master/images/odl_akka2.png?raw=true)
+![3](https://github.com/GangZhang/gangzhang.github.io/blob/master/images/odl_akka3.png?raw=true)
 
 
 ----------
