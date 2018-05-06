@@ -80,7 +80,7 @@ theme: apollo
 deploy:
   type: git
   repository: https://github.com/GangZhang/gangzhang.github.io.git
-  branch: gh-pages
+  branch: master
 
 #feed
 feed:
